@@ -1,0 +1,201 @@
+*{
+    margin: 0 auto;
+    font-family: fantasy;
+}
+
+.cabecero{
+    background-image: url(cabezero\ kordhell.png);
+    margin-top: 3mm;
+    border: 1mm;
+    border-style: solid;
+    width: 170mm;
+    height: 40mm;
+}
+
+.home{
+    padding-left: 6mm;
+    float: left;
+    padding-top: 13mm;
+    font-size: 9mm;
+    display: inline;
+    color: black;
+}
+.home:hover{
+    font-size: 10mm;
+    transition: 0.4s ease;
+}
+
+.barra{
+    padding-left: 8mm;
+    float: left;
+    padding-top: 13mm;
+    font-size: 9mm;
+    display: inline;
+}
+
+.bio{
+    padding-left: 6mm;
+    float: left;
+    padding-top: 13mm;
+    font-size: 9mm;
+    display: inline;
+    color: black;
+}
+.bio:hover{
+    font-size: 10mm;
+    transition: 0.4s ease;
+}
+
+.galeria{
+    padding-left: 6mm;
+    float: left;
+    padding-top: 13mm;
+    font-size: 9mm;
+    display: inline;
+    color: purple;
+}
+.galeria:hover{
+    font-size: 10mm;
+    transition: 0.4s ease;
+}
+
+.logo{
+    padding-left: 1mm;
+    padding-right: 4mm;
+    float: right;
+    padding-top: 3mm;
+    display: inline
+}
+
+.interior2{
+    width: 170mm;
+    height: 200mm;
+    padding-top: 7mm;
+    border-style: solid;
+    border-width: 1mm;
+    background-color: darkblue;
+    overflow: scroll
+}
+
+.murder{
+    float: left;
+    padding-left: 4mm;
+}
+
+.in{
+    float: left;
+    font-size: 11mm;
+    padding-left: 3mm;
+    padding-top: 30mm;
+    color: blueviolet;
+}
+.in:hover{
+    color: darkmagenta;
+}
+
+.my{
+    float: left;
+    padding-left: 5mm;
+    padding-top: 9mm;
+    color: black;
+    margin-bottom: 3mm;
+}
+
+.dembo{
+    float: left;
+    padding-top: 10mm;
+    padding-left: 4mm;
+}
+
+.k-dembo{
+    float: left;
+    font-size: 13mm;
+    padding-left: 4mm;
+    padding-top: 40mm;
+    color: purple;
+}
+
+.k-dembo:hover{
+    color: indigo;
+}
+
+.AUDIO1{
+    float: left;
+    padding-left: 5mm;
+    padding-top: 5mm;
+    color: black;
+    margin-bottom: 3mm;
+}
+
+.disturbed{
+    float: left;
+    padding-top: 10mm;
+    padding-left: 4mm;
+}
+
+.bad{
+    float: left;
+    font-size: 10mm;
+    padding-left: 2mm;
+    padding-top: 40mm;
+    color: darkgreen;
+}
+.bad:hover{
+    color: deeppink;
+}
+
+.man{
+        float: left;
+    padding-left: 5mm;
+    padding-top: 8mm;
+    color: black;
+    margin-bottom: 3mm;
+}
+
+.footer{
+    background-image: url(Footer\ Kordhell.png);
+    margin-bottom: 3mm;
+    border: 1mm;
+    border-style: solid;
+    width: 170mm;
+    height: 30mm;
+}
+
+.youtube{
+    padding-left: 8mm;
+    float: left;
+    padding-top: 13mm;
+    font-size: 9mm;
+    display: inline;
+    color: black;
+}
+.youtube:hover{
+    font-size: 10mm;
+    transition: 0.4s ease;
+}
+
+.insta{
+    padding-left: 7mm;
+    float: left;
+    padding-top: 13mm;
+    font-size: 9mm;
+    display: inline;
+    color: black;
+}
+.insta:hover{
+    font-size: 10mm;
+    transition: 0.4s ease;
+}
+
+.sound{
+    padding-left: 7mm;
+    float: left;
+    padding-top: 13mm;
+    font-size: 9mm;
+    display: inline;
+    color: black;
+}
+.sound:hover{
+    font-size: 10mm;
+    transition: 0.4s ease;
+}
