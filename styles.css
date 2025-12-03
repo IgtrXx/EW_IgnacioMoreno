@@ -1,0 +1,32 @@
+*{
+    margin: 0% auto;
+    width: 2000px;
+    background-image: url(FONDO.png);
+    overflow: hidden;
+    background-size: 2000px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.name{
+    font-size: 35px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.curso{
+    font-size: 25px;
+    text-align: center;
+}
+
+.trabajos{
+    text-align: center;
+    font-size: 50px;
+    display: inline;
+    padding-top: 50px;
+    border: 3px;
+    border-style: solid;
+    width: 480px;
+    height: 80px;
+    background-color: aquamarine;
+}
